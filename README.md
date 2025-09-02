@@ -31,6 +31,9 @@ and save favorites locally.
 - **StackBlitz**: Go to https://stackblitz.com/, create a new **Vite + React** project or upload this folder.
 - **CodeSandbox**: Go to https://codesandbox.io/, choose **Vite + React** template or upload this folder.
 - **Netlify/Vercel**: Connect the repo, set build command `npm run build` and publish directory `dist`.
+- ## 🚀 Live Demo
+Check out the live version here: [Live Demo](https://booksfinders.netlify.app/)
+
 
 ## Notes
 - This project addresses the ***Book Finder*** user need from the given challenge doc.
